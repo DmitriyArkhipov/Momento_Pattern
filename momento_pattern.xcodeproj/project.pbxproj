@@ -16,6 +16,7 @@
 		81E0138E1D6B0AF50004CB5A /* Hero.m in Sources */ = {isa = PBXBuildFile; fileRef = 81E0138D1D6B0AF50004CB5A /* Hero.m */; };
 		81E013911D6B0D800004CB5A /* HeroMomento.m in Sources */ = {isa = PBXBuildFile; fileRef = 81E013901D6B0D800004CB5A /* HeroMomento.m */; };
 		81E013941D6B195D0004CB5A /* GameHistory.m in Sources */ = {isa = PBXBuildFile; fileRef = 81E013931D6B195D0004CB5A /* GameHistory.m */; };
+		81FCF82C1D8B112900A808BB /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 81FCF82B1D8B112900A808BB /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		81E013901D6B0D800004CB5A /* HeroMomento.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HeroMomento.m; sourceTree = "<group>"; };
 		81E013921D6B195D0004CB5A /* GameHistory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameHistory.h; sourceTree = "<group>"; };
 		81E013931D6B195D0004CB5A /* GameHistory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameHistory.m; sourceTree = "<group>"; };
+		81FCF82B1D8B112900A808BB /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		81E013681D6B09D70004CB5A = {
 			isa = PBXGroup;
 			children = (
+				81FCF82B1D8B112900A808BB /* LICENSE */,
 				81E013731D6B09D70004CB5A /* momento_pattern */,
 				81E013721D6B09D70004CB5A /* Products */,
 			);
@@ -161,6 +164,7 @@
 			files = (
 				81E013841D6B09D70004CB5A /* LaunchScreen.storyboard in Resources */,
 				81E013811D6B09D70004CB5A /* Assets.xcassets in Resources */,
+				81FCF82C1D8B112900A808BB /* LICENSE in Resources */,
 				81E0137F1D6B09D70004CB5A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -328,6 +332,7 @@
 				81E0138A1D6B09D70004CB5A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
